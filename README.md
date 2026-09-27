@@ -216,6 +216,4 @@ which) are a simplified network created only for this academic
 project, so that the route-finding logic stays easy to explain in a
 viva. They are not claimed to be the official pedestrian routes of the
 campus.
-
-
 real-world-inspired application."
